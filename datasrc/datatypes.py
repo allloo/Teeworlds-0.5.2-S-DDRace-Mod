@@ -1,6 +1,5 @@
-
 	
-GlobalIdCounter = 0
+GlobalIdCounter = 0q
 def GetID():
 	global GlobalIdCounter
 	GlobalIdCounter += 1
